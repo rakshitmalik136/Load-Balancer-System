@@ -98,7 +98,7 @@ Refresh multiple times to see different container responses (load balancing in a
 
 ---
 
-## 📊 Sample Output
+## Sample Output
 
 ```
 DevOps Load Balanced App
